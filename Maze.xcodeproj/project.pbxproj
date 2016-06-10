@@ -14,6 +14,8 @@
 		D56397531D0A74100057358D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D56397511D0A74100057358D /* LaunchScreen.storyboard */; };
 		D563975E1D0A74100057358D /* MazeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D563975D1D0A74100057358D /* MazeTests.swift */; };
 		D56397691D0A74110057358D /* MazeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56397681D0A74110057358D /* MazeUITests.swift */; };
+		D56397761D0A7FD30057358D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D563974A1D0A74100057358D /* ViewController.swift */; };
+		D56397771D0A7FD40057358D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D563974A1D0A74100057358D /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -265,6 +267,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D56397761D0A7FD30057358D /* ViewController.swift in Sources */,
 				D563975E1D0A74100057358D /* MazeTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -273,6 +276,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D56397771D0A7FD40057358D /* ViewController.swift in Sources */,
 				D56397691D0A74110057358D /* MazeUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
